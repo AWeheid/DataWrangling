@@ -3,9 +3,9 @@
 In this project we will doe the three steps to prepare data for next phase of data analysis or data science
 The t3 steps are:
 
-   -Gatharing
-   -Assesting
-   -Cleaning
+  - Gatharing
+  - Assesting
+  - Cleaning
 
 To answer these questions
 
