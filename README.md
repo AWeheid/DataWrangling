@@ -1,6 +1,6 @@
 # DataWrangling
 
-In this project we will doe the three steps to prepare data for next phase of data analysis or data science
+In this project we will do the well-known three steps to prepare data for next phase of data analysis or data science
 The t3 steps are:
 
   - Gatharing
